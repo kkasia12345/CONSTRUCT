@@ -92,10 +92,12 @@
     <layout-folder>
         <layout>Login.xml</layout>
         <layout>Chat.xml</layout>
+        <layout>KASIA Layout.xml</layout>
     </layout-folder>
     <event-folder>
         <event-sheet>Login events.xml</event-sheet>
         <event-sheet>Chat events.xml</event-sheet>
+        <event-sheet>Event sheet 1.xml</event-sheet>
     </event-folder>
     <global-instances>
         <global-instance type="Multiplayer" uid="8" />
